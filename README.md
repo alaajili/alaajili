@@ -1,1 +1,13 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=alaajili)](https://github.com/alaajili/1337-readme)
+# Hi there I' m alaajili 🙃
+
+💻  I am currently studying programming at 42
+
+
+
+## GitHub Stats
+
+<!-- ![aaitbelh's 42 stats](https://badge42.herokuapp.com/api/stats/aaitbelh?darkmode=true&cursus=42cursus) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaajili&show_icons=true)
+## Most used languages (github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaajili&langs_count=8)](https://github.com/alaajili/github-readme-stats)
